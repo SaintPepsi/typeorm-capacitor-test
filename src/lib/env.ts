@@ -1,0 +1,1 @@
+export const ADAPTER = import.meta.env.VITE_ADAPTER;
